@@ -10,7 +10,7 @@ namespace app\models;
 
 use yii\base\Model;
 
-class TestForm extends Model
+class EntryForm extends Model
 {
     public $name;
     public $email;
