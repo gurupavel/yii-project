@@ -1,5 +1,5 @@
 @echo off
-rem-------------------------------------------------------------
+rem------------------change it
 rem -------------------------------------------------------------
 rem  Yii command line bootstrap script for Windows.
 rem
